@@ -4,7 +4,7 @@ Some of them were just very old. Quick experiments that I made a repo for but ne
 
 Why am I doing this? I'm just not comfortable keeping my code on github anymore.
 
-I was a (relatively) early adopter of git. Certainly the first person in the company I was at at the time to see the benefits of git over svn, which is what we were using. I had arguments about it. I can't say I won those arguments, but time did and of course almost evereyone uses git for almost everything now. And very early on, github was the default place to host your repos. They innovated above and beyond what git alone offered, and have continued to innovate and provide great tools to the community. Then they were acquired by Microsoft. A lot of people were worried and many left then. I stuck around.
+I was a (relatively) early adopter of git. Certainly the first person in the company I was at at the time to see the benefits of git over svn, which is what we were using. I had arguments about it. I can't say I won those arguments, but time did and of course almost everyone uses git for almost everything now. And very early on, github was the default place to host your repos. They innovated above and beyond what git alone offered, and have continued to innovate and provide great tools to the community. Then they were acquired by Microsoft. A lot of people were worried and many left then. I stuck around.
 
 In 2025 though, I am far less comfortable here. Some points that cause me concern:
 
