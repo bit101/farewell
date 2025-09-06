@@ -1,6 +1,6 @@
 I am no longer using github to host any of my personal code. It has all been migrated to https://codeberg.org/bit101
 
-When I started the migration, I had 120-something repos. Some of them were just very old. I deleted a lot and consolidated a bunch. What's left is stuff that I think will possibly be relevant - either to myself or maybe to someone else. I wound up with less than 70 repos, including a handful of private ones. Sorry if there is some library that you actualy use. Everything was be a straight migration, so you should be able to simply update the repo endpoint from github.com to codeberg.org and all else should work.
+When I started the migration, I had 120-something repos. Some of them were just very old. I deleted a lot and consolidated a bunch. What's left is stuff that I think will possibly be relevant - either to myself or maybe to someone else. I wound up with less than 70 repos, including a handful of private ones. Sorry if some library that you actually use has gone missing. Everything was be a straight migration, so you should be able to simply update the repo endpoint from github.com to codeberg.org and all else should work.
 
 Why am I doing this? I'm just not comfortable keeping my code on github anymore.
 
